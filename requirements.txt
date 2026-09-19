@@ -1,0 +1,19 @@
+django
+faiss-cpu
+sentence-transformers
+numpy
+requests
+pypdf
+edge-tts
+groq
+python-dotenv
+
+python -m pip install django
+python -m pip install faiss-cpu
+python -m pip install sentence-transformers
+python -m pip install numpy
+python -m pip install requests
+python -m pip install pypdf
+python -m pip install edge-tts
+python -m pip install groq
+python -m pip install python-dotenv
